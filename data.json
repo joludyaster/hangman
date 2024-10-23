@@ -1,0 +1,40 @@
+{
+    "answers": {
+        "victory": {
+            "suddenWin": [
+                "WOW, YOU GUESSED ON THE SPOT, GOOD JOB :D",
+                "Wait, the game hasn't even started yet and you won already.",
+                "HUH? How? Tell me how?..."
+            ],
+            "guessedWord": [
+                "Finally you got it...",
+                "Nice job, my grandma could've guessed faster ^-^",
+                "No way you actually won )-)"
+            ]
+        },
+        "fail": {
+            "lostTries": [
+                "Bruh, loser, spent all of his tries on some random letters, how pathetic...",
+                "Awwwww, I'm even glad that you lost already .-.",
+                "LOSER-LOSER-LOSER-LOSERRRRRRRRRRRRRRR!"
+            ]
+        },
+        "guesses": {
+            "correctGuess": [
+                "Wow, your brain actually is capable of guessing correct letters, keep it up!",
+                "Yup, that's the one, high five!",
+                "YES, finally got the right letter ^-^"
+            ],
+            "wrongGuess": [
+                "Nah, that's not the right one, sorry bud :(",
+                "Try harder pookie bear, that's a wrong one...",
+                "Oh c`mon man, how many times are you gonna guess incorrectly???"
+            ],
+            "sameGuess": [
+                "Dude, you already guessed that one, can you move on already? ._.",
+                "Same fcking shit over and over again...",
+                "I don't wanna play this anymore, watching how you're putting your ancestors into shame..."
+            ]
+        }
+    }
+}
